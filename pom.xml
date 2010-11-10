@@ -4,7 +4,7 @@
 	<groupId>lk.appzone</groupId>
 	<artifactId>appzone-client</artifactId>
 	<packaging>jar</packaging>
-	<version>1.0</version>
+	<version>1.1-SNAPSHOT</version>
 	<name>appzone-client</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
